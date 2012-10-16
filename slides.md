@@ -68,4 +68,50 @@ Passer rapidement
 
 # Un peu comme vous !
 
-<img src="img/chineese-girl.svg" style="width:25%" />
+<img src="img/chineese-girl.svg" style="width:50%" />
+
+# Presenter Notes
+
+Le but est de leur faire comprendre quelques notions simples
+
+* Calcul
+* Vitesse
+* Stockage
+
+---
+
+# Un cerveau pour réfléchir
+
+<img src="img/chineese-girl-brain.svg" style="width:50%" />
+
+---
+
+# Un coeur pour bouger
+
+<img src="img/chineese-girl-brain-heart.svg" style="width:50%" />
+
+---
+
+# Un estomac pour conserver des choses
+
+<img src="img/chineese-girl-brain-heart-stomach.svg" style="width:50%" />
+
+# Presenter Notes
+
+Prendre la température ici pour voir s'ils ont compris.
+
+---
+
+# On utilise des programmes
+
+<img src="img/ordinateur.svg" style="width:25%;float:left;margin:0 0 5% 10%" />
+<img src="img/laptop.svg" style="width:25%;margin-bottom:5%" />
+<img src="img/ipad.svg" style="width:25%;float:left;clear:left;margin:0 0 0 10%" />
+<img src="img/mobile.svg" style="width:25%" />
+
+---
+
+
+# Crédits
+
+Images : Wikimedia, Open Clip Art Library, and Dan McGee
