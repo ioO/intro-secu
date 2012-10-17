@@ -72,36 +72,55 @@ Passer rapidement
 
 # Des programmes
 
+<img src="img/program.svg" style="width:100%" />
 
 ---
 
-# Un coeur pour bouger
+# Mais...
 
-<img src="img/chineese-girl-brain-heart.svg" style="width:50%" />
-
----
-
-# Un estomac pour conserver des choses
-
-<img src="img/chineese-girl-brain-heart-stomach.svg" style="width:50%" />
-
-# Presenter Notes
-
-Prendre la température ici pour voir s'ils ont compris.
+<img src="img/program-virus.svg" style="width:100%" />
 
 ---
 
-# On utilise des programmes
-
-<img src="img/ordinateur.svg" style="width:25%;float:left;margin:0 0 5% 10%" />
-<img src="img/laptop.svg" style="width:25%;margin-bottom:5%" />
-<img src="img/ipad.svg" style="width:25%;float:left;clear:left;margin:0 0 0 10%" />
-<img src="img/mobile.svg" style="width:25%" />
+# Comment se protéger ?
 
 ---
 
-# Et donc on installe
+# Installer des programmes c'est un peu...
 
+<img src="img/program-eat.svg" style="width:100%" />
+
+Donner à manger à votre ordinateur 
+
+---
+
+# Et vous ! vous mangez ?
+
+<img src="img/program-from.svg" style="width:100%" />
+
+---
+
+# Et vous ! vous mangez ?
+
+<img src="img/program-from-2.svg" style="width:100%" />
+
+---
+
+# Vous ne mangez pas.
+
+<img src="img/program-not.jpg" style="width:100%" />
+
+---
+
+# Il faut donc installer des programmes qui viennent ?
+
+---
+
+# De personnes de confiance
+
+<img src="img/program-from-2.svg" style="width:100%" />
+
+---
 
 # Crédits
 
