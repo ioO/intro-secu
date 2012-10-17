@@ -53,12 +53,12 @@ Voir les connaissances et vérifiez en même temps l'utilisation :
 
 ---
 
-# Comment fonctionnent-ils ?
+# Que fait-on avec ?
 
 ---
-# L'intérieur d'un ordinateur
+# Que fait on avec ?
 
-<img src="img/computer_case_interior.jpg" style="width:60%" />
+<img src="img/do.svg" style="width:100%" />
 
 # Presenter Notes
 
@@ -66,23 +66,12 @@ Passer rapidement
 
 ---
 
-# Un peu comme vous !
-
-<img src="img/chineese-girl.svg" style="width:50%" />
-
-# Presenter Notes
-
-Le but est de leur faire comprendre quelques notions simples
-
-* Calcul
-* Vitesse
-* Stockage
+# On fait tout ça grâce à quoi ?
 
 ---
 
-# Un cerveau pour réfléchir
+# Des programmes
 
-<img src="img/chineese-girl-brain.svg" style="width:50%" />
 
 ---
 
@@ -110,6 +99,8 @@ Prendre la température ici pour voir s'ils ont compris.
 <img src="img/mobile.svg" style="width:25%" />
 
 ---
+
+# Et donc on installe
 
 
 # Crédits
