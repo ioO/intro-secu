@@ -253,7 +253,66 @@ A vos parents
 
 ---
 
+# Échanger sur internet
 
+---
+
+# On échange
+
+<img src="img/share.svg" style="width:100%" />
+
+---
+
+# Comme vous avez un antivirus
+
+<img src="img/program-antivirus.svg" style="width:100%" />
+
+# Presenter Notes
+
+Rappel rapide sur les antivirus
+
+---
+
+# Où les échanger ?
+
+<img src="img/share-2.svg" style="width:100%" />
+
+---
+
+# Les endroits sont publics ?
+
+<img src="img/share-3.svg" style="width:100%" />
+
+---
+
+# C'est comme...
+
+<img src="img/share-4.svg" style="width:100%" />
+
+---
+
+# Mettez les dans des lieux privés
+
+<img src="img/share-5.svg" style="width:100%" />
+
+---
+
+# En conclusion
+
+---
+
+# On communique, on échange
+
++ Avec des personnes que l'on connait dans le monde réel.
++ Dans des lieux que l'on sait privé.
+
+## N'hésitez pas à parler de tout ça
+
+---
+
+# Des questions ?
+
+---
 # Crédits
 
 Images : Wikimedia, Open Clip Art Library, and Dan McGee
