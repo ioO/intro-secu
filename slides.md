@@ -1,4 +1,4 @@
-# Connaitre les pièges, les éviter, pour partir faire de belles découvertes et s'amuser.
+# Connaître les pièges, les éviter, pour partir faire de belles découvertes et s'amuser.
 
 ---
 
@@ -70,7 +70,7 @@ Passer rapidement
 
 ---
 
-# Des programmes
+# Des applications
 
 <img src="img/program.svg" style="width:100%" />
 
@@ -86,7 +86,7 @@ Passer rapidement
 
 ---
 
-# Installer des programmes c'est un peu...
+# Installer des applications c'est un peu...
 
 <img src="img/program-eat.svg" style="width:100%" />
 
@@ -94,13 +94,13 @@ Donner à manger à votre ordinateur
 
 ---
 
-# Et vous ! vous mangez ?
+# Et vous, d'où vient votre gâteau ?
 
 <img src="img/program-from.svg" style="width:100%" />
 
 ---
 
-# Et vous ! vous mangez ?
+# Et vous, d'où vient votre gâteau ?
 
 <img src="img/program-from-2.svg" style="width:100%" />
 
@@ -112,7 +112,7 @@ Donner à manger à votre ordinateur
 
 ---
 
-# Il faut donc installer des programmes qui viennent ?
+# Il faut donc installer des applications qui viennent ?
 
 ---
 
@@ -121,6 +121,138 @@ Donner à manger à votre ordinateur
 <img src="img/program-from-2.svg" style="width:100%" />
 
 ---
+
+# Une 2ième protection
+
+---
+
+# Les antivirus
+
+<img src="img/program-antivirus.svg" style="width:100%" />
+
+---
+
+# Conclusions
+
+Pour pouvoir utiliser les applications :
+
++ On utilise les applications données par des personnes de confiance
++ On utilise un antivirus
+
+---
+
+# Utiliser internet
+
+---
+
+# On va communiquer
+
+<img src="img/communicate.svg" style="width:100%" />
+
+---
+
+# Communiquer
+
+<img src="img/communicate-first.svg" style="width:100%" />
+
+---
+
+# Communiquer
+
+<img src="img/communicate-second.svg" style="width:100%" />
+
+---
+
+# Communiquer
+
+<img src="img/communicate-third.svg" style="width:100%" />
+
+---
+
+# Sur internet vous n'êtes pas seul.
+
+---
+
+# D'autres personnes peuvent vous voir.
+
+<img src="img/communicate-4.svg" style="width:100%" />
+
+---
+
+# Et demander à discuter avec vous.
+
+<img src="img/communicate-5.svg" style="width:100%" />
+
+---
+
+# C'est génial, mais...
+
+---
+
+# Vous connaissez l'histoire du petit chaperon rouge ?
+
+---
+
+# En quoi se déguise le loup ?
+
+---
+
+# Ici c'est pareil.
+
+<img src="img/communicate-6.svg" style="width:100%" />
+
+---
+
+# Mais il est...
+
+<img src="img/communicate-7.svg" style="width:100%" />
+
+---
+
+# Comment se protéger
+
+---
+
+# Refuser de discuter
+
+<img src="img/communicate-8.svg" style="width:100%" />
+
+# Presenter Notes
+
++ Comme dans la rue
+
+---
+
+# Mais si on discute ?
+
+<img src="img/communicate-9.svg" style="width:100%" />
+
+---
+
+# Parlez-en !
+
+<img src="img/talk.svg" style="width:100%" />
+
+# Presenter Notes
+
+A vos parents
+
++ Si la discussion vous gène
++ vous la trouvez bizarre
+
+---
+
+# N'hésitez pas !
+
+<img src="img/talk-2.svg" style="width:100%" />
+
+# Presenter Notes
+
++ A vos instituteurs
++ Amis
+
+---
+
 
 # Crédits
 
