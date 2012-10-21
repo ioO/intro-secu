@@ -13,43 +13,43 @@ Voir les connaissances et vérifiez en même temps l'utilisation :
 
 ---
 
-<img src="img/ordinateur.svg" style="width:70%" />
+<img src="img/ordinateur.png" />
 
 ---
 
 # Un ordinateur
 
-<img src="img/ordinateur.svg" style="width:70%" />
+<img src="img/ordinateur.png" />
 
 ---
 
-<img src="img/laptop.svg" style="width:60%" />
+<img src="img/laptop.png" />
 
 ---
 
 # Un ordinateur portable
 
-<img src="img/laptop.svg" style="width:60%" />
+<img src="img/laptop.png" />
 
 ---
 
-<img src="img/ipad.svg" style="width:60%" />
+<img src="img/ipad.png" />
 
 ---
 
 # Une tablette
 
-<img src="img/ipad.svg" style="width:60%" />
+<img src="img/ipad.png" />
 
 ---
 
-<img src="img/mobile.svg" style="width:50%" />
+<img src="img/mobile.png" />
 
 ---
 
 # Un téléphone portable
 
-<img src="img/mobile.svg" style="width:50%" />
+<img src="img/mobile.png" />
 
 ---
 
@@ -58,7 +58,7 @@ Voir les connaissances et vérifiez en même temps l'utilisation :
 ---
 # Que fait on avec ?
 
-<img src="img/do.svg" style="width:90%" />
+<img src="img/do.png" />
 
 # Presenter Notes
 
@@ -72,13 +72,13 @@ Passer rapidement
 
 # Des applications
 
-<img src="img/program.svg" style="width:90%" />
+<img src="img/program.png" />
 
 ---
 
 # Mais...
 
-<img src="img/program-virus.svg" style="width:90%" />
+<img src="img/program-virus.png" />
 
 ---
 
