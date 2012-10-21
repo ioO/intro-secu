@@ -88,7 +88,7 @@ Passer rapidement
 
 # Installer des applications c'est un peu...
 
-<img src="img/program-eat.svg" style="width:90%" />
+<img src="img/program-eat.png" />
 
 ---
 
