@@ -94,13 +94,13 @@ Passer rapidement
 
 # Et vous, d'où vient votre gâteau ?
 
-<img src="img/program-from.svg" style="width:90%" />
+<img src="img/program-from.png" />
 
 ---
 
 # Et vous, d'où vient votre gâteau ?
 
-<img src="img/program-from-2.svg" style="width:90%" />
+<img src="img/program-from-2.png" />
 
 ---
 
@@ -116,7 +116,7 @@ Passer rapidement
 
 # De personnes de confiance
 
-<img src="img/program-from-2.svg" style="width:90%" />
+<img src="img/program-from-2.png" />
 
 ---
 
@@ -126,7 +126,7 @@ Passer rapidement
 
 # Les antivirus
 
-<img src="img/program-antivirus.svg" style="width:90%" />
+<img src="img/program-antivirus.png" />
 
 ---
 
@@ -145,25 +145,25 @@ Pour pouvoir utiliser les applications :
 
 # On va communiquer
 
-<img src="img/communicate.png" style="width:90%" />
+<img src="img/communicate.png" />
 
 ---
 
 # Communiquer
 
-<img src="img/communicate-first.svg" style="width:90%" />
-
----
-
-# Communiquer/home/ioo/projet/prez/img/communicate.png
-
-<img src="img/communicate-second.svg" style="width:90%" />
+<img src="img/communicate-1.png" />
 
 ---
 
 # Communiquer
 
-<img src="img/communicate-third.svg" style="width:90%" />
+<img src="img/communicate-2.png" />
+
+---
+
+# Communiquer
+
+<img src="img/communicate-3.png" />
 
 ---
 
@@ -173,13 +173,13 @@ Pour pouvoir utiliser les applications :
 
 # D'autres personnes peuvent vous voir.
 
-<img src="img/communicate-4.svg" style="width:90%" />
+<img src="img/communicate-4.png" />
 
 ---
 
 # Et demander à discuter avec vous.
 
-<img src="img/communicate-5.svg" style="width:90%" />
+<img src="img/communicate-5.png" />
 
 ---
 
@@ -191,19 +191,20 @@ Pour pouvoir utiliser les applications :
 
 ---
 
+
 # En quoi se déguise le loup ?
 
 ---
 
 # Ici c'est pareil.
 
-<img src="img/communicate-6.svg" style="width:90%" />
+<img src="img/communicate-6.png" />
 
 ---
 
 # Mais il est...
 
-<img src="img/communicate-7.svg" style="width:90%" />
+<img src="img/communicate-7.png" />
 
 ---
 
@@ -213,7 +214,7 @@ Pour pouvoir utiliser les applications :
 
 # Refuser de discuter
 
-<img src="img/communicate-8.svg" style="width:90%" />
+<img src="img/communicate-8.png" />
 
 # Presenter Notes
 
@@ -223,13 +224,17 @@ Pour pouvoir utiliser les applications :
 
 # Mais si on discute ?
 
-<img src="img/communicate-9.svg" style="width:90%" />
+<img src="img/communicate-9.png" />
+
+---
+
+# Restez vigilant
 
 ---
 
 # Parlez-en !
 
-<img src="img/talk.svg" style="width:90%" />
+<img src="img/talk.png" />
 
 # Presenter Notes
 
@@ -242,7 +247,7 @@ A vos parents
 
 # N'hésitez pas !
 
-<img src="img/talk-2.svg" style="width:90%" />
+<img src="img/talk-2.png" />
 
 # Presenter Notes
 
@@ -257,13 +262,13 @@ A vos parents
 
 # On échange
 
-<img src="img/share.svg" style="width:90%" />
+<img src="img/share.png" />
 
 ---
 
 # Comme vous avez un antivirus
 
-<img src="img/program-antivirus.svg" style="width:90%" />
+<img src="img/program-antivirus.png" />
 
 # Presenter Notes
 
@@ -273,25 +278,25 @@ Rappel rapide sur les antivirus
 
 # Où les échanger ?
 
-<img src="img/share-2.svg" style="width:90%" />
+<img src="img/share-2.png" />
 
 ---
 
 # Les endroits sont publics.
 
-<img src="img/share-3.svg" style="width:90%" />
+<img src="img/share-3.png" />
 
 ---
 
 # C'est comme...
 
-<img src="img/share-4.svg" style="width:90%" />
+<img src="img/share-4.png" />
 
 ---
 
 # Mettez les dans des lieux privés
 
-<img src="img/share-5.svg" style="width:90%" />
+<img src="img/share-5.png" />
 
 ---
 
@@ -317,4 +322,8 @@ Rappel rapide sur les antivirus
 
 # Crédits
 
-Images : Wikimedia, Open Clip Art Library, and Dan McGee
+Images :
+
+- [Wikimedia](http://commons.wikimedia.org)
+- [Open Clip Art Library](http://openclipart.org/)
+- [Oxygen Icons](http://www.oxygen-icons.org/)
