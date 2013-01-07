@@ -20,8 +20,7 @@ Récupérez la présentation sur [github](http://www.github.com/ioO), pour les n
 
 Pour l'utiliser il vous faut :
 - Le fichier presentation.html
-- le dossier js
-- le dossier css
+- le dossier theme
 
 ## Comment la modifier
 
