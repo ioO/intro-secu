@@ -15,8 +15,8 @@ Les images utilisées sont dans le domaine public.
 
 La présentation est générée à partir de [Landslide](https://github.com/n1k0/landslide).
 
-Récupérez la présentation sur [github](http://www.github.com/ioO), pour les non initiés vous pouvez la récupérer au 
-*format zip* sur la page du projet.
+Récupérez la présentation sur [github](http://www.github.com/ioO/intro-secu), pour les non initiés vous pouvez la 
+récupérer au **format zip** sur la page du projet.
 
 Pour l'utiliser il vous faut :
 - Le fichier presentation.html
@@ -24,9 +24,9 @@ Pour l'utiliser il vous faut :
 
 ## Comment la modifier
 
-Récuperez le projet [Landslide](https://github.com/n1k0/landslide), toute la documentation necessaire est sur la page 
+Récupérez le projet [Landslide](https://github.com/n1k0/landslide), toute la documentation nécessaire est sur la page 
 du projet.
 
-Récuperez les sources avec git
+Récupérez les sources avec git
 
-    $git clone 
+    $git clone https://github.com/ioO/intro-secu.git
