@@ -1,0 +1,14 @@
+<svg width="737" height="700" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="imagebot_6">
+   <stop stop-color="#ff0000" offset="0" id="imagebot_11"/>
+   <stop stop-color="#ff8b8b" offset="1" id="imagebot_10"/>
+  </linearGradient>
+  <linearGradient y2="0.29182" x2="0.97468" y1="0.50136" x1="0.02754" id="imagebot_4" xlink:href="#imagebot_6"/>
+ </defs>
+ <metadata id="imagebot_5">image/svg+xml</metadata>
+ <g id="imagebot_2" label="Layer 1">
+  <path transform="translate(-0.00138974, 0.00280762) matrix(1, 0, 0, 1, -2.54939, -112.362)" label="Layer 1" fill="url(#imagebot_4)" fill-rule="evenodd" stroke-width="7.613" stroke-miterlimit="4" id="imagebot_3" d="M423.81992,812.36218C423.81992,812.36218 2.54939,570.33588 2.54939,334.49948C2.54939,223.47874 80.16065,128.98959 216.59132,114.26887C334.07376,101.59264 373.88248,180.01733 373.88248,180.01733C373.88248,180.01733 401.7894,109.412 539.13538,112.45797C618.79956,114.26887 751.18689,196.94261 739.24426,336.31039C717.76172,587.0069 456.85117,650.06848 423.81992,812.36218z"/>
+  <title>Layer 1</title>
+ </g>
+</svg>
